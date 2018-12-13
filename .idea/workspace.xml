@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020a75b5-b063-4e14-b477-b7ecbbdb1a2b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/AllCash.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Проект.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Cuprum/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon-new-flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="020a75b5-b063-4e14-b477-b7ecbbdb1a2b" name="Default" comment="13.12.2018" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +24,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="37" />
+            <state relative-caret-position="1514">
+              <caret line="339" column="7" lean-forward="true" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="470" column="22" lean-forward="true" selection-start-line="470" selection-start-column="22" selection-end-line="470" selection-end-column="22" />
+            <state relative-caret-position="10810">
+              <caret line="470" column="22" selection-start-line="470" selection-start-column="22" selection-end-line="470" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -119,9 +105,9 @@
         <option value="$PROJECT_DIR$/Script.js" />
         <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/Style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -251,11 +237,20 @@
       <workItem from="1543860312383" duration="2218000" />
       <workItem from="1544359547216" duration="517000" />
       <workItem from="1544360437617" duration="251000" />
+      <workItem from="1544717419291" duration="244000" />
     </task>
+    <task id="LOCAL-00001" summary="13.12.2018">
+      <created>1544717658971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544717658971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245688000" />
+    <option name="totallyTimeSpent" value="245932000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,6 +289,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="13.12.2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.12.2018" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Images/icon-search.svg" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc" />
@@ -302,10 +301,10 @@
         <state relative-caret-position="-1104" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="67" column="28" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="37" />
+        <state relative-caret-position="10810">
+          <caret line="470" column="22" selection-start-line="470" selection-start-column="22" selection-end-line="470" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -316,10 +315,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="470" column="22" lean-forward="true" selection-start-line="470" selection-start-column="22" selection-end-line="470" selection-end-column="22" />
+        <state relative-caret-position="1514">
+          <caret line="339" column="7" lean-forward="true" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
         </state>
       </provider>
     </entry>
